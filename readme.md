@@ -2,4 +2,8 @@
 
 tugas pertemuan ke 5
 
-![tampilan hasil innerjoin](https://i.imgur.com/TH25XID.png)
+tabel dosen
+![tampilan tabel dosen](https://i.imgur.com/EaQGdiV.png)
+
+hasil tampilan data yang berelasi
+![tampilan hasil innerJoin](https://i.imgur.com/TH25XID.png)
