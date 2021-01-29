@@ -2,8 +2,10 @@
 
 
 #### tugas pertemuan ke 2
+<p align="center">
+  <img width="460" height="300" src="https://imgur.com/UX89Ec5.png">
+</p>
 
-![source code tugas 2](https://imgur.com/UX89Ec5.png =100x20)
 
 #### tugas pertemuan ke 5
 
