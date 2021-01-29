@@ -1,11 +1,6 @@
 ### Belajar Javascript Dasar
 
 
-#### tugas pertemuan ke 2
-
-  <img width="600 " height="600" src="https://imgur.com/UX89Ec5.png">
-
-
 #### tugas pertemuan ke 5
 
 tabel mahasiswa
