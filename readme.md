@@ -2,9 +2,8 @@
 
 
 #### tugas pertemuan ke 2
-<p align="center">
-  <img width="460" height="300" src="https://imgur.com/UX89Ec5.png">
-</p>
+
+  <img width="600 " height="600" src="https://imgur.com/UX89Ec5.png">
 
 
 #### tugas pertemuan ke 5
