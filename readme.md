@@ -1,5 +1,10 @@
 ### Belajar Javascript Dasar
 
+
+#### tugas pertemuan ke 2
+
+![source code tugas 2](https://imgur.com/a/GZ5aneW)
+
 #### tugas pertemuan ke 5
 
 tabel mahasiswa
