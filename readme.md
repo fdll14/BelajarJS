@@ -3,7 +3,7 @@
 
 #### tugas pertemuan ke 2
 
-![source code tugas 2](https://imgur.com/UX89Ec5.png)
+![source code tugas 2](https://imgur.com/UX89Ec5.png =100x20)
 
 #### tugas pertemuan ke 5
 
