@@ -1,6 +1,10 @@
-#### Belajar Javascript Dasar
+### Belajar Javascript Dasar
 
-tugas pertemuan ke 5
+#### tugas pertemuan ke 5
+
+tabel mahasiswa
+
+![tampilan tabel mahasiswa](https://i.imgur.com/cA1Lw6P.png)
 
 tabel dosen
 
